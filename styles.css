@@ -64,12 +64,15 @@ h3{
     font-family:'Times New Roman', Times, serif
 }
 button{
-    background-color: rgba(108, 179, 16, 0.527);
+    background-color: #6cb31086;
     border: 5px;
     border-radius: 50px;
     height: 25px;
     width: 150px;
     border-style:initial;
+    font-size: 15px;
+}
+p{
     font-size: 15px;
 }
 
